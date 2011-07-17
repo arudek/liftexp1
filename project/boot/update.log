@@ -1,0 +1,216 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/usr/local/bin/sbt-launcher.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/Users/arudek/Documents/learning_lift/20110715/arnetest/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/usr/local/bin/sbt-launcher.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.version.PatternVersionMatcher in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.signer.bouncycastle.OpenPGPSignatureGenerator in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'java.runtime.name' to 'Java(TM) SE Runtime Environment'
+setting 'sun.boot.library.path' to '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries'
+setting 'java.vm.version' to '20.1-b02-384'
+setting 'awt.nativeDoubleBuffering' to 'true'
+setting 'gopherProxySet' to 'false'
+setting 'mrj.build' to '10M3425'
+setting 'java.vm.vendor' to 'Apple Inc.'
+setting 'java.vendor.url' to 'http://www.apple.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'Java HotSpot(TM) 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'user.country' to 'DE'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/Users/arudek/Documents/learning_lift/20110715/arnetest'
+setting 'java.runtime.version' to '1.6.0_26-b03-384-10M3425'
+setting 'java.awt.graphicsenv' to 'apple.awt.CGraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed'
+setting 'os.arch' to 'x86_64'
+setting 'java.io.tmpdir' to '/var/folders/Wk/WkZ9HimvHhiwSqG+3EfEJE+++TI/-Tmp-/'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'os.name' to 'Mac OS X'
+setting 'sun.jnu.encoding' to 'MacRoman'
+setting 'java.library.path' to '/usr/local/mysql/lib:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '50.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Tiered Compilers'
+setting 'os.version' to '10.6.8'
+setting 'http.nonProxyHosts' to 'local|*.local|169.254/16|*.169.254/16'
+setting 'user.home' to '/Users/arudek'
+setting 'user.timezone' to 'Europe/Berlin'
+setting 'java.awt.printerjob' to 'apple.awt.CPrinterJob'
+setting 'file.encoding' to 'MacRoman'
+setting 'java.specification.version' to '1.6'
+setting 'java.class.path' to '/usr/local/bin/sbt-launcher.jar'
+setting 'user.name' to 'arudek'
+setting 'java.vm.specification.version' to '1.0'
+setting 'sun.java.command' to '/usr/local/bin/sbt-launcher.jar'
+setting 'java.home' to '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'de'
+setting 'java.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'awt.toolkit' to 'apple.awt.CToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.6.0_26'
+setting 'java.ext.dirs' to '/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext'
+setting 'sun.boot.class.path' to '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar'
+setting 'java.vendor' to 'Apple Inc.'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.apple.com/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'mrj.version' to '1060.1.6.0_26-384'
+setting 'socksNonProxyHosts' to 'local|*.local|169.254/16|*.169.254/16'
+setting 'ftp.nonProxyHosts' to 'local|*.local|169.254/16|*.169.254/16'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/Users/arudek/.ivy2'
+setting 'ivy.home' to '/Users/arudek/.ivy2'
+no default ivy user dir defined: set to /Users/arudek/.ivy2
+setting 'ivy.cache.dir' to '/Users/arudek/.ivy2/cache'
+no default cache defined: set to /Users/arudek/.ivy2/cache
+setting 'ivy.basedir' to '/Users/arudek/Documents/learning_lift/20110715/arnetest/project/boot'
+setting 'basedir' to '/Users/arudek/Documents/learning_lift/20110715/arnetest/project/boot'
+setting 'scala' to '2.8.1'
+:: resolving dependencies :: org.scala-tools.sbt#boot-scala;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for org.scala-tools.sbt#boot-scala;1.0 [default]
+loadData of org.scala-tools.sbt#boot-scala;1.0 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->default]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-compiler;2.8.1
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-compiler;2.8.1 {default=[default, optional(default)]}
+redefined-public: no namespace defined: using system
+No entry is found in the ModuleDescriptorCache : /Users/arudek/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.8.1.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for org.scala-lang#scala-compiler;2.8.1 (resolved by redefined-public): /Users/arudek/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.8.1.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-compiler;2.8.1
+redefined-public: no latest strategy defined: using default
+	found org.scala-lang#scala-compiler;2.8.1 in redefined-public
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->runtime]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->compile]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-library;2.8.1
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-library;2.8.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /Users/arudek/.ivy2/cache/org.scala-lang/scala-library/ivy-2.8.1.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for org.scala-lang#scala-library;2.8.1 (resolved by Maven2 Local): /Users/arudek/.ivy2/cache/org.scala-lang/scala-library/ivy-2.8.1.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-library;2.8.1
+	found org.scala-lang#scala-library;2.8.1 in Maven2 Local
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->default]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->compile]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [compile->master]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->org.scala-lang#scala-library;2.8.1 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->master]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.8.1 [default->optional(default)]
+loadData of org.scala-lang#scala-compiler;2.8.1 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->jline#jline;0.9.91 [optional->master(*)]
+loadData of jline#jline;0.9.91 of rootConf=default
+	using redefined-public to resolve jline#jline;0.9.91
+redefined-public: Checking cache for: dependency: jline#jline;0.9.91 {optional=[compile(*), master(*)]}
+No entry is found in the ModuleDescriptorCache : /Users/arudek/.ivy2/cache/jline/jline/ivy-0.9.91.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for jline#jline;0.9.91 (resolved by Maven Central): /Users/arudek/.ivy2/cache/jline/jline/ivy-0.9.91.xml
+redefined-public: module revision found in cache: jline#jline;0.9.91
+	found jline#jline;0.9.91 in Maven Central
+== resolving dependencies org.scala-lang#scala-compiler;2.8.1->jline#jline;0.9.91 [optional->compile(*)]
+loadData of jline#jline;0.9.91 of rootConf=default
+== resolving dependencies jline#jline;0.9.91->junit#junit;3.8.1 [compile->master(*)]
+loadData of junit#junit;3.8.1 of rootConf=default
+	using redefined-public to resolve junit#junit;3.8.1
+redefined-public: Checking cache for: dependency: junit#junit;3.8.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /Users/arudek/.ivy2/cache/junit/junit/ivy-3.8.1.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for junit#junit;3.8.1 (resolved by Maven2 Local): /Users/arudek/.ivy2/cache/junit/junit/ivy-3.8.1.xml
+redefined-public: module revision found in cache: junit#junit;3.8.1
+	found junit#junit;3.8.1 in Maven2 Local
+== resolving dependencies jline#jline;0.9.91->junit#junit;3.8.1 [compile->compile(*)]
+loadData of junit#junit;3.8.1 of rootConf=default
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->default]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->runtime]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->compile]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-tools.sbt#boot-scala;1.0->org.scala-lang#scala-library;2.8.1 [default->master]
+loadData of org.scala-lang#scala-library;2.8.1 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+Nbr of module to sort : 4
+Sort dependencies of : org.scala-lang#scala-compiler;2.8.1 / Number of dependencies = 2
+Sort dependencies of : org.scala-lang#scala-library;2.8.1 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.8.1
+Sort dependencies of : jline#jline;0.9.91 / Number of dependencies = 1
+Sort dependencies of : junit#junit;3.8.1 / Number of dependencies = 0
+Sort done for : junit#junit;3.8.1
+Sort done for : jline#jline;0.9.91
+Sort done for : org.scala-lang#scala-compiler;2.8.1
+Module descriptor is processed : org.scala-lang#scala-library;2.8.1
+Module descriptor is processed : jline#jline;0.9.91
+Module descriptor is processed : junit#junit;3.8.1
+	resolved ivy file produced in /Users/arudek/.ivy2/cache/resolved-org.scala-tools.sbt-boot-scala-1.0.xml
+:: downloading artifacts ::
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.8.1!scala-compiler.jar
+	[NOT REQUIRED] org.scala-lang#scala-library;2.8.1!scala-library.jar
+	[NOT REQUIRED] jline#jline;0.9.91!jline.jar
+	[NOT REQUIRED] junit#junit;3.8.1!junit.jar
+:: resolution report :: resolve 88ms :: artifacts dl 4ms
+Nbr of module to sort : 4
+Sort dependencies of : org.scala-lang#scala-compiler;2.8.1 / Number of dependencies = 2
+Sort dependencies of : org.scala-lang#scala-library;2.8.1 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.8.1
+Sort dependencies of : jline#jline;0.9.91 / Number of dependencies = 1
+Sort dependencies of : junit#junit;3.8.1 / Number of dependencies = 0
+Sort done for : junit#junit;3.8.1
+Sort done for : jline#jline;0.9.91
+Sort done for : org.scala-lang#scala-compiler;2.8.1
+Module descriptor is processed : org.scala-lang#scala-library;2.8.1
+Module descriptor is processed : jline#jline;0.9.91
+Module descriptor is processed : junit#junit;3.8.1
+	report for org.scala-tools.sbt#boot-scala;1.0 default produced in /Users/arudek/.ivy2/cache/org.scala-tools.sbt-boot-scala-default.xml
+	resolve done (88ms resolve - 4ms download)
+:: retrieving :: org.scala-tools.sbt#boot-scala
+	checkUpToDate=true
+no explicit confs given for retrieve, using ivy file: /Users/arudek/.ivy2/cache/resolved-org.scala-tools.sbt-boot-scala-1.0.xml
+using ivy parser to parse /Users/arudek/.ivy2/cache/resolved-org.scala-tools.sbt-boot-scala-1.0.xml
+post 1.3 ivy file: using exact as default matcher
+	confs: [default]
+	retrieving /Users/arudek/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.8.1.jar
+		to /Users/arudek/Documents/learning_lift/20110715/arnetest/project/boot/scala-2.8.1/lib/scala-library.jar
+	retrieving /Users/arudek/.ivy2/cache/jline/jline/jars/jline-0.9.91.jar
+		to /Users/arudek/Documents/learning_lift/20110715/arnetest/project/boot/scala-2.8.1/lib/jline.jar
+	retrieving /Users/arudek/.ivy2/cache/junit/junit/jars/junit-3.8.1.jar
+		to /Users/arudek/Documents/learning_lift/20110715/arnetest/project/boot/scala-2.8.1/lib/junit.jar
+	retrieving /Users/arudek/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.8.1.jar
+		to /Users/arudek/Documents/learning_lift/20110715/arnetest/project/boot/scala-2.8.1/lib/scala-compiler.jar
+	4 artifacts copied, 0 already retrieved (15296kB/218ms)
+	retrieve done (218ms)

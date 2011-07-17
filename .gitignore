@@ -1,0 +1,6 @@
+target
+lib_managed
+*.db
+project/boot/other
+project/boot/scala-*
+project/build/target
